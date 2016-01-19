@@ -9,3 +9,4 @@ document.write("El nombre es: " + nombre + " y la edad: " + edad);
 
 // It writes the value on the developer console
 console.log(nombre);
+
